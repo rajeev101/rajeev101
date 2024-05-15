@@ -1,4 +1,4 @@
-# Emeric DYNOMANT
+# RAJEEV KUSHWAHA
 
 I'm a developer with a strong background in **MLops**, **cloud architecture**, **data engineering**, **software development**, **time-series analysis** and **NLP/NLU** tasks, both for research or industry. I also worked for a while in chatbots/voicebots development, STT/TTS and social robotics (Furhat technologies).
 
